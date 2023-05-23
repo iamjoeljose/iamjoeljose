@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+Myself Joel ! Currently nominated on the responsibility of delivering quality products to those at the end of line 
+
+ ⚡ A Code that cant be tested is flawed :P...
 <!--
 **iamjoeljose/iamjoeljose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Myself Joel ! Currently nominated on the responsibility of delivering quality products to those at the end of line !
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: A Code that cant be tested is flawed :P...
+- 
 -->
