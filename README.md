@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Myself Joel ! Currently nominated on the responsibility of delivering quality products to those at the end of line 
+Myself Joel ! Currently nominated on the responsibility of delivering quality products to end user
 
  ⚡ A Code that cant be tested is flawed :P...
 <!--
