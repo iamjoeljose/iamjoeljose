@@ -1,7 +1,8 @@
+<!-- ===== A FUN, INTERACTIVE INTIATIVE BY JJ ===== -->
 <!-- ===== 1. ANIMATED BANNER ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0D1117,100:00FF9C&text=Joel%20Jose&fontColor=0AC18E&fontSize=70&fontAlignY=38&desc=Detection%20%7C%20Blue%20Team%20%7C%20SDET%20%E2%86%92%20SOC&descAlignY=60&descSize=18&descColor=7D8590" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0D1117,100:161B22&text=Joel%20Jose&fontColor=00FF9C&fontSize=70&fontAlignY=38&desc=Detection%20%7C%20Blue%20Team%20%7C%20SDET%20%E2%86%92%20SOC&descAlignY=60&descSize=18&descColor=7D8590" alt="banner"/>
 
 <!-- ===== 2. TYPING SVG ===== -->
 <a href="https://www.linkedin.com/in/joeljose7">
@@ -81,11 +82,11 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 | Domain | Proficiency | Details |
 |:--|:--|:--|
-| Detection Engineering | ![](https://img.shields.io/badge/Learning-00FF9C?style=flat-square&labelColor=0D1117) | Planned Wazuh + Sysmon lab; ATT&CK coverage & false-negative thinking |
-| Threat Hunting | ![](https://img.shields.io/badge/Hands--On-00FF9C?style=flat-square&labelColor=0D1117) | Suricata + `jq` over `eve.json`, attacker→victim mapping (Redis/MongoDB) |
-| Malware Analysis | ![](https://img.shields.io/badge/Hands--On-00FF9C?style=flat-square&labelColor=0D1117) | Dynamic analysis: Procmon, Process Hacker, RegShot, Wireshark; LOLBin (T1218.009) |
+| Detection Engineering | ![](https://img.shields.io/badge/Learning-0AC18E?style=flat-square&labelColor=0D1117) | Planned Wazuh + Sysmon lab; ATT&CK coverage & false-negative thinking |
+| Threat Hunting | ![](https://img.shields.io/badge/Hands--On-0AC18E?style=flat-square&labelColor=0D1117) | Suricata + `jq` over `eve.json`, attacker→victim mapping (Redis/MongoDB) |
+| Malware Analysis | ![](https://img.shields.io/badge/Hands--On-0AC18E?style=flat-square&labelColor=0D1117) | Dynamic analysis: Procmon, Process Hacker, RegShot, Wireshark; LOLBin (T1218.009) |
 | Test Automation (SDET) | ![](https://img.shields.io/badge/Strong-0AC18E?style=flat-square&labelColor=0D1117) | Selenium WebDriver framework design, JS, Zephyr, CI on ArgoCD |
-| Data Protection & Privacy | ![](https://img.shields.io/badge/Working-00FF9C?style=flat-square&labelColor=0D1117) | MPC / federated learning, Australian Privacy Principles |
+| Data Protection & Privacy | ![](https://img.shields.io/badge/Working-0AC18E?style=flat-square&labelColor=0D1117) | MPC / federated learning, Australian Privacy Principles |
 | GRC / AppSec | ![](https://img.shields.io/badge/Building-7D8590?style=flat-square&labelColor=0D1117) | Secondary focus alongside SOC track |
 
 ## `~/projects --building`
@@ -93,18 +94,18 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 <details open>
 <summary><b>🛡️ SOC Home Detection Lab</b> · <img src="https://img.shields.io/badge/planned-7D8590?style=flat-square&labelColor=0D1117"/></summary>
 
-> Planned detection lab to model a real attack chain and measure how much of it the defences actually catch — designed as a QA-style detection-coverage and false-negative analysis.
+> Planned hybrid detection lab to model a real attack chain and measure how much of it the defences actually catch — designed as a QA-style detection-coverage and false-negative analysis. Architected as cloud-hosted SIEM + a single local victim VM to run within real hardware constraints.
 
 | | |
 |:--|:--|
-| **Stack** | Wazuh, Windows victim VM + Sysmon, Kali attacker, Atomic Red Team |
-| **Scope** | End-to-end attack chain mapped to MITRE ATT&CK |
-| **Status** | Design stage — architecture defined, build not yet started |
+| **Stack** | Wazuh (cloud) · Windows victim VM + Sysmon (local, UTM) · Atomic Red Team |
+| **Scope** | Atomic Red Team simulations on the victim, mapped to MITRE ATT&CK; detection-coverage gap analysis in Wazuh |
+| **Status** | Design stage — hybrid architecture defined, build not yet started |
 
 </details>
 
 <details>
-<summary><b>🤖 Jarvis-style AI Assistant</b> · <img src="https://img.shields.io/badge/in_progress-00FF9C?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>🤖 Jarvis-style AI Assistant</b> · <img src="https://img.shields.io/badge/in_progress-0AC18E?style=flat-square&labelColor=0D1117"/></summary>
 
 > A personal AI assistant on the Anthropic API — starting as a terminal chatbot, with phased plans for tool-calling and voice.
 
@@ -117,7 +118,7 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 </details>
 
 <details>
-<summary><b>🚆 Myki Fare Analysis Tool</b> · <img src="https://img.shields.io/badge/in_progress-00FF9C?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>🚆 Myki Fare Analysis Tool</b> · <img src="https://img.shields.io/badge/in_progress-0AC18E?style=flat-square&labelColor=0D1117"/></summary>
 
 > A beginner-friendly data project analysing public-transport fare data, with a privacy-by-design angle.
 
@@ -240,7 +241,7 @@ learning:
   - "CompTIA Security+ (priority cert), CySA+ next"
   - "SOC detection engineering & MITRE ATT&CK coverage"
 building:
-  - "SOC home detection lab (Wazuh + Sysmon + Atomic Red Team)"
+  - "SOC detection lab (hybrid: cloud Wazuh + local victim VM + Sysmon + Atomic Red Team)"
   - "Jarvis-style AI assistant on the Anthropic API"
 exploring:
   - "Threat hunting, malware analysis, privacy-by-design"
