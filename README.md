@@ -2,33 +2,33 @@
 <!-- ===== 1. ANIMATED BANNER ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0D1117,100:161B22&text=Joel%20Jose&fontColor=00FF9C&fontSize=70&fontAlignY=38&desc=Detection%20%7C%20Blue%20Team%20%7C%20SDET%20%E2%86%92%20SOC&descAlignY=60&descSize=18&descColor=7D8590" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0D1117,100:161B22&text=Joel%20Jose&fontColor=D4F03C&fontSize=70&fontAlignY=38&desc=Detection%20%7C%20Blue%20Team%20%7C%20SDET%20%E2%86%92%20SOC&descAlignY=60&descSize=18&descColor=7D8590" alt="banner"/>
 
 <!-- ===== 2. TYPING SVG ===== -->
 <a href="https://www.linkedin.com/in/joeljose7">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FF9C&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+Senior+Engineer+pivoting+to+SOC+%2F+Blue+Team;%24+stack+%E2%86%92+Python%2C+JavaScript%2C+Selenium%2C+Wazuh%2C+Sysmon;%24+learning+%E2%86%92+threat+hunting%2C+malware+analysis%2C+MITRE+ATT%26CK;%24+building+%E2%86%92+SOC+detection+lab+%2B+a+Jarvis-style+AI+assistant;%24+studying+%E2%86%92+M.+Cybersecurity+%40+RMIT+%7C+Security%2B+in+progress" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=D4F03C&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+Senior+Engineer+pivoting+to+SOC+%2F+Blue+Team;%24+stack+%E2%86%92+Python%2C+JavaScript%2C+Selenium%2C+Wazuh%2C+Sysmon;%24+learning+%E2%86%92+threat+hunting%2C+malware+analysis%2C+MITRE+ATT%26CK;%24+building+%E2%86%92+SOC+detection+lab+%2B+a+Jarvis-style+AI+assistant;%24+studying+%E2%86%92+M.+Cybersecurity+%40+RMIT+%7C+Security%2B+in+progress" alt="typing"/>
 </a>
 
 <!-- ===== 3. INFO BADGES ROW ===== -->
 <p>
-<img src="https://img.shields.io/badge/M.Cybersecurity-RMIT_University-00FF9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/B.Tech_CSE-APJ_KTU-00FF9C?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Melbourne-Australia-0AC18E?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/M.Cybersecurity-RMIT_University-D4F03C?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/B.Tech_CSE-APJ_KTU-D4F03C?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Melbourne-Australia-D4F03C?style=flat-square&labelColor=161B22"/>
 </p>
 
 <!-- ===== 4. CTA BUTTONS ===== -->
 <p>
-<a href="https://www.linkedin.com/in/joeljose7"><img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://medium.com/@joeljomat7"><img src="https://img.shields.io/badge/Medium-00FF9C?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://tryhackme.com/p/joeljomat7"><img src="https://img.shields.io/badge/TryHackMe-0AC18E?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117"/></a>
-<a href="https://github.com/iamjoeljose"><img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/joeljose7"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=D4F03C&labelColor=0D1117"/></a>
+<a href="https://medium.com/@joeljomat7"><img src="https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=D4F03C&labelColor=0D1117"/></a>
+<a href="https://tryhackme.com/p/joeljomat7"><img src="https://img.shields.io/badge/TryHackMe-D4F03C?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="https://github.com/iamjoeljose"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=D4F03C&labelColor=0D1117"/></a>
 </p>
 
 <!-- ===== 5. PROFILE STATS ===== -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=iamjoeljose&style=flat-square&color=00FF9C&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/iamjoeljose?style=flat-square&color=00FF9C&labelColor=0D1117&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/iamjoeljose?style=flat-square&color=0AC18E&labelColor=0D1117&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=iamjoeljose&style=flat-square&color=D4F03C&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/iamjoeljose?style=flat-square&color=D4F03C&labelColor=0D1117&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/iamjoeljose?style=flat-square&color=D4F03C&labelColor=0D1117&label=STARS"/>
 </p>
 
 </div>
@@ -67,14 +67,14 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-00FF9C?style=flat-square&logo=mitre&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Wazuh_SIEM-00FF9C?style=flat-square&logo=wazuh&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Sysmon-00FF9C?style=flat-square&logo=windows&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Suricata_IDS-00FF9C?style=flat-square&logo=suricata&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Threat_Hunting-0AC18E?style=flat-square&logo=hackthebox&logoColor=0D1117&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Malware_Analysis-0AC18E?style=flat-square&logo=virustotal&logoColor=0D1117&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Test_Automation-00FF9C?style=flat-square&logo=selenium&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Privacy_by_Design-00FF9C?style=flat-square&logo=privacyguides&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-161B22?style=flat-square&logo=mitre&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Wazuh_SIEM-161B22?style=flat-square&logo=wazuh&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Sysmon-161B22?style=flat-square&logo=windows&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Suricata_IDS-161B22?style=flat-square&logo=suricata&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Threat_Hunting-161B22?style=flat-square&logo=hackthebox&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Malware_Analysis-161B22?style=flat-square&logo=virustotal&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Test_Automation-161B22?style=flat-square&logo=selenium&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Privacy_by_Design-161B22?style=flat-square&logo=privacyguides&logoColor=D4F03C&labelColor=0D1117"/>
 
 </div>
 
@@ -82,11 +82,11 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 | Domain | Proficiency | Details |
 |:--|:--|:--|
-| Detection Engineering | ![](https://img.shields.io/badge/Learning-0AC18E?style=flat-square&labelColor=0D1117) | Planned Wazuh + Sysmon lab; ATT&CK coverage & false-negative thinking |
-| Threat Hunting | ![](https://img.shields.io/badge/Hands--On-0AC18E?style=flat-square&labelColor=0D1117) | Suricata + `jq` over `eve.json`, attacker→victim mapping (Redis/MongoDB) |
-| Malware Analysis | ![](https://img.shields.io/badge/Hands--On-0AC18E?style=flat-square&labelColor=0D1117) | Dynamic analysis: Procmon, Process Hacker, RegShot, Wireshark; LOLBin (T1218.009) |
-| Test Automation (SDET) | ![](https://img.shields.io/badge/Strong-0AC18E?style=flat-square&labelColor=0D1117) | Selenium WebDriver framework design, JS, Zephyr, CI on ArgoCD |
-| Data Protection & Privacy | ![](https://img.shields.io/badge/Working-0AC18E?style=flat-square&labelColor=0D1117) | MPC / federated learning, Australian Privacy Principles |
+| Detection Engineering | ![](https://img.shields.io/badge/Learning-D4F03C?style=flat-square&labelColor=0D1117) | Planned Wazuh + Sysmon lab; ATT&CK coverage & false-negative thinking |
+| Threat Hunting | ![](https://img.shields.io/badge/Hands--On-D4F03C?style=flat-square&labelColor=0D1117) | Suricata + `jq` over `eve.json`, attacker→victim mapping (Redis/MongoDB) |
+| Malware Analysis | ![](https://img.shields.io/badge/Hands--On-D4F03C?style=flat-square&labelColor=0D1117) | Dynamic analysis: Procmon, Process Hacker, RegShot, Wireshark; LOLBin (T1218.009) |
+| Test Automation (SDET) | ![](https://img.shields.io/badge/Strong-D4F03C?style=flat-square&labelColor=0D1117) | Selenium WebDriver framework design, JS, Zephyr, CI on ArgoCD |
+| Data Protection & Privacy | ![](https://img.shields.io/badge/Working-D4F03C?style=flat-square&labelColor=0D1117) | MPC / federated learning, Australian Privacy Principles |
 | GRC / AppSec | ![](https://img.shields.io/badge/Building-7D8590?style=flat-square&labelColor=0D1117) | Secondary focus alongside SOC track |
 
 ## `~/projects --building`
@@ -105,7 +105,7 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 </details>
 
 <details>
-<summary><b>🤖 Jarvis-style AI Assistant</b> · <img src="https://img.shields.io/badge/in_progress-0AC18E?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>🤖 Jarvis-style AI Assistant</b> · <img src="https://img.shields.io/badge/in_progress-D4F03C?style=flat-square&labelColor=0D1117"/></summary>
 
 > A personal AI assistant on the Anthropic API — starting as a terminal chatbot, with phased plans for tool-calling and voice.
 
@@ -118,7 +118,7 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 </details>
 
 <details>
-<summary><b>🚆 Myki Fare Analysis Tool</b> · <img src="https://img.shields.io/badge/in_progress-0AC18E?style=flat-square&labelColor=0D1117"/></summary>
+<summary><b>🚆 Myki Fare Analysis Tool</b> · <img src="https://img.shields.io/badge/in_progress-D4F03C?style=flat-square&labelColor=0D1117"/></summary>
 
 > A beginner-friendly data project analysing public-transport fare data, with a privacy-by-design angle.
 
@@ -166,8 +166,8 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Master_of_Cybersecurity-RMIT_University_·_Melbourne_·_2026-00FF9C?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/B.Tech_Computer_Science-Rajagiri_·_APJ_KTU-00FF9C?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Master_of_Cybersecurity-RMIT_University_·_Melbourne_·_2026-161B22?style=for-the-badge&logo=academia&logoColor=D4F03C&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/B.Tech_Computer_Science-Rajagiri_·_APJ_KTU-161B22?style=for-the-badge&logo=academia&logoColor=D4F03C&labelColor=0D1117"/>
 
 </div>
 
@@ -175,7 +175,7 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/joeljomat7"><img src="https://img.shields.io/badge/TryHackMe-Blue_Team_Path-0AC18E?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="https://tryhackme.com/p/joeljomat7"><img src="https://img.shields.io/badge/TryHackMe-Blue_Team_Path-D4F03C?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117"/></a>
 
 </div>
 
@@ -183,12 +183,12 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamjoeljose&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=0AC18E&text_color=7D8590"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjoeljose&hide_border=true&background=0D1117&stroke=00FF9C&ring=0AC18E&fire=0AC18E&currStreakLabel=00FF9C&sideLabels=7D8590&dates=7D8590&currStreakNum=0AC18E&sideNums=00FF9C"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamjoeljose&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4F03C&icon_color=D4F03C&text_color=7D8590"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjoeljose&hide_border=true&background=0D1117&stroke=D4F03C&ring=D4F03C&fire=D4F03C&currStreakLabel=D4F03C&sideLabels=7D8590&dates=7D8590&currStreakNum=D4F03C&sideNums=D4F03C"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoeljose&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=7D8590"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjoeljose&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4F03C&text_color=7D8590"/>
 
 </div>
 
@@ -196,7 +196,7 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamjoeljose&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamjoeljose&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -204,7 +204,7 @@ OPEN_TO   = ["SOC Analyst", "Detection Engineer", "Blue Team", "GRC", "AppSec"]
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoeljose&bg_color=0D1117&color=00FF9C&line=0AC18E&point=7D8590&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamjoeljose&bg_color=0D1117&color=D4F03C&line=D4F03C&point=7D8590&area=true&hide_border=true"/>
 
 </div>
 
@@ -253,15 +253,15 @@ open_to:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/joeljose7"><img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://medium.com/@joeljomat7"><img src="https://img.shields.io/badge/Medium-00FF9C?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://tryhackme.com/p/joeljomat7"><img src="https://img.shields.io/badge/TryHackMe-0AC18E?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117"/></a>
-<a href="https://github.com/iamjoeljose"><img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/joeljose7"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=D4F03C&labelColor=0D1117"/></a>
+<a href="https://medium.com/@joeljomat7"><img src="https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=D4F03C&labelColor=0D1117"/></a>
+<a href="https://tryhackme.com/p/joeljomat7"><img src="https://img.shields.io/badge/TryHackMe-D4F03C?style=for-the-badge&logo=tryhackme&logoColor=0D1117&labelColor=0D1117"/></a>
+<a href="https://github.com/iamjoeljose"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=D4F03C&labelColor=0D1117"/></a>
 
 <br/><br/>
 
 <i>"Detection is a coverage problem — find the false negatives before an attacker does."</i>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00FF9C,100:0D1117&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:D4F03C,100:0D1117&section=footer"/>
 
 </div>
